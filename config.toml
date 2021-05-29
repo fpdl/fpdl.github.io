@@ -12,6 +12,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
 # googleAnalytics = "UA-123-45"
 # disqusShortname = "yourdiscussshortname"
+publishDir = “public”
 
 [author]
   name = "Francisco Pereira"
@@ -50,7 +51,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   code_copy_button = true # Turn on/off the code-copy-button for code-fields
   
-  # Add custom css
+# Add custom css
   # customCSS = ["css/foo.css", "css/bar.css"]
 
   # Social Icons
