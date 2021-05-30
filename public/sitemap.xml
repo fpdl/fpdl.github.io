@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>fpdl.eu/</loc>
+    <loc>/</loc>
     <lastmod>2021-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>fpdl.eu/posts/creating-a-new-theme/</loc>
+    <loc>/posts/creating-a-new-theme/</loc>
     <lastmod>2021-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>fpdl.eu/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2021-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>fpdl.eu/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2020-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>fpdl.eu/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
