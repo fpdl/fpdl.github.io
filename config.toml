@@ -1,4 +1,4 @@
-baseURL = "https://fpdl.eu/"
+baseURL = "fpdl.eu"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Francisco Pereira"
@@ -79,7 +79,3 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     name = "About"
     url = "about/"
     weight = 20
-
-webrick:
-  headers:
-    Access-Control-Allow-Origin: "*"
